@@ -35,9 +35,11 @@
 		</Compiler>
 		<Unit filename="include/network.h" />
 		<Unit filename="include/node.h" />
+		<Unit filename="include/random.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/network.cpp" />
 		<Unit filename="src/node.cpp" />
+		<Unit filename="src/random.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

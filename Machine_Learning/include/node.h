@@ -1,16 +1,17 @@
 #ifndef NODE_H
 #define NODE_H
-
+#include <vector>
 
 class Node
 {
     public:
-        Node();
+        Node(double bias,double weights[]);
         virtual ~Node();
 
-    protected:
-
+        double doThing(double values[]);
     private:
+        double bias;
+        std::vector<double> weights;
 };
 
 #endif // NODE_H

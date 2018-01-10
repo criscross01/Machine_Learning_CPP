@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1515609488 source:c:\users\cta9207\desktop\machine_learning_cpp\machine_learning\main.cpp
+	<iostream>
+	"node.h"
+
+1515509099 source:c:\users\cta9207\desktop\machine_learning_cpp\machine_learning\src\network.cpp
+	"network.h"
+
+1515509099 c:\users\cta9207\desktop\machine_learning_cpp\machine_learning\include\network.h
+
+1515609613 source:c:\users\cta9207\desktop\machine_learning_cpp\machine_learning\src\node.cpp
+	"node.h"
+
+1515609599 c:\users\cta9207\desktop\machine_learning_cpp\machine_learning\include\node.h
+	<vector>
+
+1515529496 c:\users\cta9207\desktop\machine_learning_cpp\machine_learning\include\random.h
+	<random>
+
+1515529520 source:c:\users\cta9207\desktop\machine_learning_cpp\machine_learning\src\random.cpp
+	"random.h"
+	<ctime>
+

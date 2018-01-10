@@ -1,6 +1,7 @@
 #ifndef NETWORK_H
 #define NETWORK_H
-
+#include "random.h"
+#include "node.h"
 
 class Network
 {
@@ -8,9 +9,8 @@ class Network
         Network();
         virtual ~Network();
 
-    protected:
-
     private:
+
 };
 
 #endif // NETWORK_H
